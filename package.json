@@ -1,0 +1,16 @@
+{
+  "name": "sudoku",
+  "version": "0.0.1",
+  "description": "Sudoku solver",
+  "main": "sudoku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sudoku",
+    "js",
+    "nodejs"
+  ],
+  "author": "izavits",
+  "license": "BSD"
+}
